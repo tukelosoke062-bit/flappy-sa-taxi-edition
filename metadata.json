@@ -1,0 +1,6 @@
+{
+  "name": "FLAPPY SA - Taxi Edition",
+  "description": "Dodge the taxis in this South African arcade flappy game set across the Johannesburg skyline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
